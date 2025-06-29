@@ -18,7 +18,7 @@ In the 2D world Lemmings can walk,fall and dig.. It can switch direction accordi
 
 ## How to run 
 
-- Open the Vivado project file (.xpr).
+- Open the Vivado project file (.xpr)[Project File](project_lemmings.xpr).
 - Run simulation -> Run Behavioural Simulation.
 - View Waveform in the waveform window.
 - (Optional) Run synthesis -> Run Implementation -> Generate Bitstream.
