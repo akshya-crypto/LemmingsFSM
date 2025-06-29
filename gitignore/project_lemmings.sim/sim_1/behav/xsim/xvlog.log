@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/aksha/OneDrive/Desktop/coding/verilog/lemmings4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lemmings
+INFO: [VRFC 10-311] analyzing module test_lemmings
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/aksha/Desktop/project_lemmings/project_lemmings.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

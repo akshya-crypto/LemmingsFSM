@@ -1,0 +1,39 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sun Jun 29 12:47:08 2025
+# Process ID         : 222516
+# Current directory  : C:/Users/aksha/OneDrive/Desktop/project_lemmings
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent223492 C:\Users\aksha\OneDrive\Desktop\project_lemmings\project_lemmings.xpr
+# Log file           : C:/Users/aksha/OneDrive/Desktop/project_lemmings/vivado.log
+# Journal file       : C:/Users/aksha/OneDrive/Desktop/project_lemmings\vivado.jou
+# Running On         : AKSHAYA
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16870 MB
+# Swap memory        : 7833 MB
+# Total Virtual      : 24703 MB
+# Available Virtual  : 4537 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/aksha/OneDrive/Desktop/project_lemmings/project_lemmings.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/aksha/Desktop/project_lemmings' since last save.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/aksha/OneDrive/Desktop/project_lemmings/project_lemmings.gen/sources_1'.
+WARNING: [Project 1-312] File not found as 'C:/Users/aksha/OneDrive/OneDrive/Desktop/coding/verilog/lemmings4.v'; using path 'C:/Users/aksha/OneDrive/Desktop/coding/verilog/lemmings4.v' instead.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-312] File not found as 'C:/Users/aksha/OneDrive/OneDrive/Desktop/coding/verilog/lemmings4.v'; using path 'C:/Users/aksha/OneDrive/Desktop/coding/verilog/lemmings4.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/aksha/OneDrive/OneDrive/Desktop/coding/verilog/lemmings4.v'; using path 'C:/Users/aksha/OneDrive/Desktop/coding/verilog/lemmings4.v' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:03 ; elapsed = 00:00:06 . Memory (MB): peak = 1091.711 ; gain = 50.359
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Jun 29 12:53:48 2025...
