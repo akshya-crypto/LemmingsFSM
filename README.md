@@ -13,6 +13,7 @@ In the 2D world Lemmings can walk,fall and dig.. It can switch direction accordi
 ## Project Structure
 
 `src/`: Contains the Verilog code file.   
+`project_lemmings.srcs`:FPGA constraint file(.xpc).  
 `images/`: Output waveform and state diagram.   
 `project_lemmings/`: The Vivado project file.
 
